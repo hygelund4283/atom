@@ -12,10 +12,10 @@ const Movie = () => {
               <Text>A</Text>
             </ListItem>
             <ListItem >
-              <Text>Aaron Bennet</Text>
+              <Text>yang</Text>
             </ListItem>
             <ListItem>
-              <Text>Ali Connors</Text>
+              <Text>xiang</Text>
             </ListItem>
             <ListItem itemDivider>
               <Text>B</Text>
